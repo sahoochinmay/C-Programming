@@ -1,3 +1,4 @@
+// P12. Accept a number and check whether it is positive or negative.
 #include <stdio.h>
 #include <conio.h>
 
