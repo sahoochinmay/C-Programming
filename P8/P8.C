@@ -1,3 +1,4 @@
+// P8. Accept amount in rupees and convert into paisa.
 #include <stdio.h>
 #include <conio.h>
 
