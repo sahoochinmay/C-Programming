@@ -1,3 +1,4 @@
+// P11.  Accept a number and check whether it is even or odd.
 #include <stdio.h>
 #include <conio.h>
 
