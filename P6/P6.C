@@ -1,3 +1,4 @@
+// P6. Accept 3 subject marks and calculate the total mark and percentage.
 #include <stdio.h>
 #include <conio.h>
 
