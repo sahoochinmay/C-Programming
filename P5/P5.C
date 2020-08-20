@@ -1,3 +1,4 @@
+// P5 . Accept two number and swap them using 3rd variable.P5 . Accept two number and swap them using 3rd variable.
 #include <stdio.h>
 #include <conio.h>
 
