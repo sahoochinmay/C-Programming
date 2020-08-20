@@ -1,3 +1,4 @@
+// P10. Accept a number and print the reminder after dividing with 3.
 #include <stdio.h>
 #include <conio.h>
 
