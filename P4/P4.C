@@ -1,3 +1,4 @@
+// P4 . Accept principal value, rate of interest , time. Calculate simple interest.
 #include <stdio.h>
 #include <conio.h>
 
