@@ -1,3 +1,4 @@
+// P7. Accept radius of a circle and calculate the area and perimeter of the circle.
 #include <stdio.h>
 #include <conio.h>
 
