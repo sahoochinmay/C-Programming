@@ -14,20 +14,11 @@
 
 ### [Checkout our C programming project][project]
 
+### [Read Documentation][readme]
+
 ### So lets start 💻 🖱
 
-## Basic Programs
 
-- P1 - Print name using c programming.
-- P2 - Calculate sum of 2 accepted number .
-- P3 - Accept the length and breadth and calculate the area of the rectangle .
-- P4 - Accept principal value, rate of interest , time. Calculate simple interest.
-- P5 - Accept two number and swap them using 3rd variable.
-- P6 - Accept 3 subject marks and calculate the total mark and percentage.
-- P7 - Accept radius of a circle and calculate the area and perimeter of the circle.
-- P8 - Accept amount in rupees and convert into paisa.
-- P9 - Accept temperature in celsius and convert into fahrenheit.
-- P10 - Accept a number and print the reminder after dividing with 3.
 
 
 ### Languages and tools:
@@ -52,3 +43,4 @@
 [vscode]: https://code.visualstudio.com/
 [c]: https://g.co/kgs/HJyHvh
 [project]: https://github.com/users/sahoochinmay/projects/3
+[readme]: https://github.com/sahoochinmay/C-Programming
