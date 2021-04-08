@@ -12,7 +12,6 @@
 
 ### Here I 👨‍🎓 mention every program with file name sequentially from basic.
 
-### [Checkout our C programming project][project]
 
 ### [Read Documentation][readme]
 
@@ -42,5 +41,4 @@
 [linkedin]: https://www.linkedin.com/in/chinmay-ranjan-sahoo-865b75161/
 [vscode]: https://code.visualstudio.com/
 [c]: https://g.co/kgs/HJyHvh
-[project]: https://github.com/users/sahoochinmay/projects/3
 [readme]: https://github.com/sahoochinmay/C-Programming
