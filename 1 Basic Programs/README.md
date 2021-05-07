@@ -4,7 +4,7 @@
 
 ##### I'm Chinmay Ranjan Sahoo [sahoochinmay][website] 😄
 
-### Here I am trying to add most of the C programming codes 😉. 
+### Here I am trying to add most of the C programming codes which can help others. 😉
 
 ---
 
@@ -12,10 +12,22 @@
 
 ### Here I 👨‍🎓 mention every program with file name sequentially from basic.
 
+### [Get Codes from here][get_codes]
 
 ### So lets start 💻 🖱
 
+## Basic Programs
 
+- P1 - Print name using c programming.
+- P2 - Calculate sum of 2 accepted number .
+- P3 - Accept the length and breadth and calculate the area of the rectangle .
+- P4 - Accept principal value, rate of interest , time. Calculate simple interest.
+- P5 - Accept two number and swap them using 3rd variable.
+- P6 - Accept 3 subject marks and calculate the total mark and percentage.
+- P7 - Accept radius of a circle and calculate the area and perimeter of the circle.
+- P8 - Accept amount in rupees and convert into paisa.
+- P9 - Accept temperature in celsius and convert into fahrenheit.
+- P10 - Accept a number and print the reminder after dividing with 3.
 
 
 ### Languages and tools:
@@ -39,7 +51,7 @@
 [twitter]: https://twitter.com/_Sahoochinmay
 [instagram]: https://www.instagram.com/_sahoochinmay/
 [linkedin]: https://www.linkedin.com/in/chinmay-ranjan-sahoo-865b75161/
-[facebook]: https://www.facebook.com/chinmay.ranjan.961/
-[vscode]: https://code.visualstudio.com/
+[facebook]: https://www.facebook.com/chinmay.ranjan.961/visualstudio.com/
 [c]: https://g.co/kgs/HJyHvh
-[readme]: https://github.com/sahoochinmay/C-Programming
+[project]: https://github.com/users/sahoochinmay/projects/3
+[get_codes]: https://github.com/sahoochinmay/C-Programming-Codes
