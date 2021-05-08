@@ -36,5 +36,5 @@
 [instagram]: https://www.instagram.com/_sahoochinmay/
 [linkedin]: https://www.linkedin.com/in/chinmay-ranjan-sahoo-865b75161/
 [facebook]: https://www.facebook.com/chinmay.ranjan.961/visualstudio.com/
+[vscode]: https://code.visualstudio.com/
 [c]: https://g.co/kgs/HJyHvh
-[project]: https://github.com/users/sahoochinmay/projects/3
