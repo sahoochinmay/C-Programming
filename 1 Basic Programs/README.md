@@ -1,21 +1,5 @@
 # C - programming
 
-## Hello coder, 👋
-
-##### I'm Chinmay Ranjan Sahoo [sahoochinmay][website] 😄
-
-### Here I am trying to add most of the C programming codes which can help others. 😉
-
----
-
----
-
-### Here I 👨‍🎓 mention every program with file name sequentially from basic.
-
-### [Get Codes from here][get_codes]
-
-### So lets start 💻 🖱
-
 ## Basic Programs
 
 - P1 - Print name using c programming.
@@ -54,4 +38,3 @@
 [facebook]: https://www.facebook.com/chinmay.ranjan.961/visualstudio.com/
 [c]: https://g.co/kgs/HJyHvh
 [project]: https://github.com/users/sahoochinmay/projects/3
-[get_codes]: https://github.com/sahoochinmay/C-Programming-Codes
