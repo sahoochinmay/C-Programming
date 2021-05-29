@@ -1,24 +1,7 @@
 {
     "files.associations": {
-        "P1.C": "cpp",
-        "P2.C": "cpp",
-        "P3.C": "cpp",
-        "P4.C": "cpp",
-        "P5.C": "cpp",
-        "P6.C": "cpp",
-        "P7.C": "cpp",
-        "P8.C": "cpp",
-        "P9.C": "cpp",
-        "P10.C": "cpp",
-        "P12.C": "cpp",
         "P13.C": "cpp",
         "P14.C": "cpp",
-        "P16.C": "cpp",
-        "P17.C": "cpp",
-        "P18.C": "cpp",
-        "P20.C": "cpp",
-        "P22.C": "cpp",
-        "P23.C": "cpp",
-        "P24.C": "cpp",
+        "P17.C": "cpp"
     }
 }
