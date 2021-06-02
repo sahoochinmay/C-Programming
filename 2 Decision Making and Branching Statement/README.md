@@ -1,21 +1,18 @@
 # C - programming
 
-## Hello coder, 👋
+## Decision Making and Branching
 
-##### I'm Chinmay Ranjan Sahoo [sahoochinmay][website] 😄
-
-### Here I am trying to add most of the C programming codes 😉. 
-
----
-
----
-
-### Here I 👨‍🎓 mention every program with file name sequentially from basic.
-
-
-### So lets start 💻 🖱
-
-
+- P1 - Accept a number and check whether it is even or odd.
+- P2 - Accept a number and check whether it is positive or negative.
+- P3 - Accept 3 numbers and find the greatest one.
+- P4 - Accept  a year and check whether the year is leap year or not.
+- P5 - Accept 5 subject mark and calculate percentage and show which division he/she get-
+// >60%  First Division
+// >50%  Second Division
+// >30% Third Division
+// <30% Fail
+- P6 - Accept a character and check whether it is vowel or consonant.
+- P7 - Accept two number and depending on users choice do arithmetic calculation.
 
 
 ### Languages and tools:
@@ -40,8 +37,7 @@
 [twitter]: https://twitter.com/_Sahoochinmay
 [instagram]: https://www.instagram.com/_sahoochinmay/
 [linkedin]: https://www.linkedin.com/in/chinmay-ranjan-sahoo-865b75161/
-[facebook]: https://www.facebook.com/chinmay.ranjan.961/
+[facebook]: https://www.facebook.com/chinmay.ranjan.961/visualstudio.com/
 [vscode]: https://code.visualstudio.com/
 [c]: https://g.co/kgs/HJyHvh
-[readme]: https://github.com/sahoochinmay/C-Programming
 [youtube]: https://www.youtube.com/channel/UCjPFubL0hA0EuSjTgj2pW2g
