@@ -19,9 +19,9 @@
 **[1 Basic Programs](https://github.com/sahoochinmay/C-Programming/tree/master/1%20Basic%20Programs)**
 
 
-**[2 Decision Making and Branching Statement](https://github.com/sahoochinmay/C-Programming/tree/master/2%20Decision%20Making%20and%20Branching%20Statement)**
+**[2 Decision Making and Branching](https://github.com/sahoochinmay/C-Programming/tree/master/2%20Decision%20Making%20and%20Branching)**
 
-
+**[3 Decision Making and Looping](https://github.com/sahoochinmay/C-Programming/tree/master/3%20Decisin%20Making%20and%20looping)**
 
 
 ### Languages and tools:
