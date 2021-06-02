@@ -39,4 +39,4 @@
 [facebook]: https://www.facebook.com/chinmay.ranjan.961/visualstudio.com/
 [vscode]: https://code.visualstudio.com/
 [c]: https://g.co/kgs/HJyHvh
-[youtube]: https://www.youtube.com/channel/UCjPFubL0hA0EuSjTgj2pW2g
+[youtube](https://www.youtube.com/channel/UCjPFubL0hA0EuSjTgj2pW2g){:target="_blank"}
