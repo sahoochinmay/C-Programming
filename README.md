@@ -25,7 +25,7 @@
 
 **[4 Series Problem](https://github.com/sahoochinmay/C-Programming/tree/master/4%20Series%20Problem)**
 
-**[5 Structure Problem](https://github.com/sahoochinmay/C-Programming/tree/master/4%20Structure%20Problem)**
+**[5 Structure Problem](https://github.com/sahoochinmay/C-Programming/tree/master/5%20Structure%20Problem)**
 
 ### Languages and tools:
 
