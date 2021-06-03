@@ -53,24 +53,22 @@
 
 - P7 - Write a program in C to print the bellow by accepting no. of rows
 
-	    	            1
-	                1	   2
-	            1	    2	    3
-            1      2       3       4
+                        1
+                    1       2
+                1       2       3
+            1       2       3       4
         1       2       3       4       5
 
-p
-Write a program in C to print the bellow structure
+- P8 - Write a program in C to print the bellow structure
 
-		                *
-	                *       *
-	            *       *       *
-            *       *       *       *
-        *       *       *       *       *
-            *	    *	    *	   *
-	            *	    *   	*
-	                *	    *
-	                    *
+                    *
+                *       *
+            *       *       *
+        *       *       *       *
+            *       *       *
+                *       *
+                    *
+
 
 
 ### Languages and tools:
