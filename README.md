@@ -39,6 +39,10 @@
 
 **[11 Dynamic Memory Allocation](https://github.com/sahoochinmay/C-Programming/tree/master/11%20Dynamic%20Memory%20Allocation)**
 
+**[12 Structure & Union](https://github.com/sahoochinmay/C-Programming/tree/master/12%20Structure%20&%20Union)**
+
+**[13 File Handling](https://github.com/sahoochinmay/C-Programming/tree/master/13%20File%20Handling)**
+
 ### Languages and tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
