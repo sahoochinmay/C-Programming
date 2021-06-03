@@ -1,17 +1,76 @@
 # C - programming
 
-## Decision Making and Looping 
+## Structure Problem 
 
-- P1 - Accept n and calculate sum of natural number from 1 to n.
-- P2 - Accept a number and check whether prime or not.
-- P3 - Accept a 3 digit number and revers it.
-- P4 - Accept a number and calculate it's factorial.
-- P5 - Accept a number and check whether it is armstrong number or not.
-- P6 - Accept a 3 digit number and check whether palindrom or not.
-- P7 - Accept n and print fibonacci series upto nth term.
-- P8 - Print all the prime numbers between 1 to 500.
-- P9 - Accept a number and check whether it is perfect or not.
-- P10 - Compute the factor of a given number.
+- P1 - Write a program in C to print the bellow by accepting no. of rows
+
+       *
+       *	*
+       *	*	*
+       *	*	*	*
+       *	*	*	*	*
+
+- P2 - Write a program in C to print the bellow by accepting no. of rows
+
+        1
+        1   2
+        1   2   3
+        1   2   3   4
+        1   2   3   4   5
+
+- P3 - Write a program in C to print the bellow by accepting no. of rows
+
+        1
+        2   2
+        3   3   3
+        4   4   4   4
+        5   5   5   5   5
+
+- p4 - Write a program in C to print the bellow by accepting no. of rows
+
+        1   2   3   4   5
+        1   2   3   4	
+        1   2   3
+        1   2	
+        1
+
+- p5 - Write a program in C to print the bellow by accepting no. of rows
+
+        1
+        2   3
+        4   5   6
+        7   8   9   10
+        11  12  13  14  15
+
+
+- P6 - Write a program in C to print the bellow by accepting no. of rows
+
+		                *
+	                *       *
+	            *       *       *
+            *       *       *       *
+        *       *       *       *       *
+
+- P7 - Write a program in C to print the bellow by accepting no. of rows
+
+	    	            1
+	                1	   2
+	            1	    2	    3
+            1      2       3       4
+        1       2       3       4       5
+
+p
+Write a program in C to print the bellow structure
+
+		                *
+	                *       *
+	            *       *       *
+            *       *       *       *
+        *       *       *       *       *
+            *	    *	    *	   *
+	            *	    *   	*
+	                *	    *
+	                    *
 
 
 ### Languages and tools:

@@ -1,31 +1,9 @@
 # C - programming
 
-## Hello coder, 👋
+## Series Problem 
 
-##### I'm Chinmay Ranjan Sahoo [sahoochinmay][website] 😄
+- P1 - Compute the sum of n terms of the series<br/>S = 1 - 2 + 3 - 4 + 5 - 6 + ....n
 
-### Here I am trying to add most of the C programming codes 😉. 
-
----
-
----
-
-### Here I 👨‍🎓 mention every program with file name sequentially from basic.
-
-
-### So lets start 💻 🖱
----
----
-**[1 Basic Programs](https://github.com/sahoochinmay/C-Programming/tree/master/1%20Basic%20Programs)**
-
-
-**[2 Decision Making and Branching](https://github.com/sahoochinmay/C-Programming/tree/master/2%20Decision%20Making%20and%20Branching)**
-
-**[3 Decision Making and Looping](https://github.com/sahoochinmay/C-Programming/tree/master/3%20Decisin%20Making%20and%20looping)**
-
-**[4 Series Problem](https://github.com/sahoochinmay/C-Programming/tree/master/4%20Series%20Problem)**
-
-**[5 Structure Problem](https://github.com/sahoochinmay/C-Programming/tree/master/4%20Structure%20Problem)**
 
 ### Languages and tools:
 
@@ -49,8 +27,7 @@
 [twitter]: https://twitter.com/_Sahoochinmay
 [instagram]: https://www.instagram.com/_sahoochinmay/
 [linkedin]: https://www.linkedin.com/in/chinmay-ranjan-sahoo-865b75161/
-[facebook]: https://www.facebook.com/chinmay.ranjan.961/
+[facebook]: https://www.facebook.com/chinmay.ranjan.961/visualstudio.com/
 [vscode]: https://code.visualstudio.com/
 [c]: https://g.co/kgs/HJyHvh
-[readme]: https://github.com/sahoochinmay/C-Programming
 [youtube]: https://www.youtube.com/channel/UCjPFubL0hA0EuSjTgj2pW2g
